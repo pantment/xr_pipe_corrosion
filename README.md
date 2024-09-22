@@ -18,3 +18,10 @@ You can install the necessary dependencies using pip:
 
 ```bash
 pip install opencv-python numpy matplotlib
+```
+### Original Image and Corrosion Detected
+
+<p align="center">
+  <img src="original_image.png" alt="xray pipe image" width="45%">
+  <img src="overlay.png" alt="Overlay Image" width="45%">
+</p>
